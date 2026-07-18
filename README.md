@@ -7,7 +7,7 @@
 ---
 
 ## 1. Situation
-Within the scope of the second Usable Security Lab, an Augmented Reality (AR) mini-game was successfully implemented using Unity 2022 for the Meta Quest 3 standalone headset. The primary goal was to design and deploy a brief, 30-second interaction scenario capable of recording user behavioral data for biometric evaluation and machine-learning-based identification. 
+Within the scope of the second Usable Security Lab, an Augmented Reality (AR) mini-game was successfully implemented using Unity 2022 for the Meta Quest headsets. The primary goal was to design and deploy a brief, 30-second interaction scenario capable of recording user behavioral data for biometric evaluation and machine-learning-based identification. 
 
 To achieve a clean blend of habituation and distinctiveness, a physics-based dart-throwing scenario was constructed. Players pick up a virtual dart using controllers or hand-tracking, aim at a physical/virtual dartboard mapped into their space, and execute a throw toward the target. The core objective of the interaction layout was to design a simple, routine movement pattern that becomes intuitive after just a few attempts, while preserving deep, un-spoofable personal distinctiveness to support continuous user authentication through behavioral tracking.
 
