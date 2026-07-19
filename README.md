@@ -93,16 +93,16 @@ The log output shows substantial tracking lengths and varying samples across par
 ============================================================
 Samples per participant:
 target_feature
-Participant_01      8820
-Participant_02    131760
-Participant_03     71835
-Participant_04     26715
-Participant_05     33690
-Participant_06     47070
-Participant_07    167970
-Participant_08     14061
-Participant_09     39600
-Participant_10     33270
+Participant_01 8820
+Participant_02 131760
+Participant_03 71835
+Participant_04 26715
+Participant_05 33690
+Participant_06 47070
+Participant_07 167970
+Participant_08 14061
+Participant_09 39600
+Participant_10 33270
 dtype: int64
 
 Total samples: 574791
