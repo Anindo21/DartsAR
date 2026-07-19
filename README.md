@@ -4,7 +4,7 @@
 * **Rezaul Hoque**
 * **Md Aminul Islam**
 
----
+
 
 ## 1. Situation
 Within the scope of the second Usable Security Lab, an Augmented Reality (AR) mini-game was successfully implemented using Unity 2022 for the Meta Quest headsets. The primary goal was to design and deploy a brief, 30-second interaction scenario capable of recording user behavioral data for biometric evaluation and machine-learning-based identification. 
